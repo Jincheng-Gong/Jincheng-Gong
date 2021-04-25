@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Matrix-JCG/Matrix-JCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Matrix-JCG)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋
+
+### MSc student in Financial Risk Management/Financial Engineering.
+
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Matrix-JCG&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
+
+
+- 💬Tel: (86) 15270782171
+- 📫E-mail: mordorgong@foxmail.com
+- 🌱Hobbies: *Tennis*, *Electronic Guitar*, *Financial Risk Management*, *Data Mining* and *Quantitative Finance Researching in Python*
+- 🔭Campus Life: Captain of The Varsity *Tennis* Team, Leader of *The Physics* Rock Band, Founder of *DailyBusiness* Subscription
