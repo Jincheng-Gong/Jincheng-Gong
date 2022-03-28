@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Matrix-JCG&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JinchengGong1113&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
 
 
 - 💬Tel: (86) 15270782171
