@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-### MSc student in Financial Risk Management/Financial Engineering.
+### MSc student in Finance.
 
 ---
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JinchengG&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
 
 
-- 💬Tel: (86) 15270782171
+- 💬Tel & WeChat: (86) 15270782171
 - 📫E-mail: mordorgong@foxmail.com
 - 🌱Hobbies: *Tennis*, *Electronic Guitar*, *Financial Risk Management*, *Data Mining* and *Quantitative Finance Researching in Python*
-- 🔭Campus Life: Captain of The Varsity *Tennis* Team, Leader of *The Physics* Rock Band, Founder of *DailyBusiness* Subscription
+- 🔭Campus Life: Member of The Varsity *Tennis* Team, Memeber of *The Physics* Rock Band
