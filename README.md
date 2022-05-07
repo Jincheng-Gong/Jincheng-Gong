@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JinchengG&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
 
 
-- 💬Tel & WeChat: (86) 15270782171
+- 💬Tel & WeChat
 - 📫E-mail: mordorgong@foxmail.com
 - 🌱Hobbies: *Tennis*, *Electronic Guitar*, *Financial Risk Management*, *Data Mining* and *Quantitative Finance Researching in Python*
 - 🔭Campus Life: Member of The Varsity *Tennis* Team, Memeber of *The Physics* Rock Band
