@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ---
 
 - 💬Tel & WeChat: (+86) 15270782171
-- 📫E-mail: mordorgong@foxmail.com
+- 📫E-mail: Jincheng.Gong@hotmail.com
 - 🌱Hobbies: *Tennis*, *Electronic Guitar*, *Financial Risk Management*, *Data Mining* and *Quantitative Finance Researching in Python*
 - 🔭Campus Life: Member of The Varsity *Tennis* Team, Memeber of *The Physics* Rock Band
