@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-- 💬 Tel. & WeChat: (+86) 15270782171 (E-Mail first please.)
-- 📫 E-Mail: Jincheng.Gong@hotmail.com
-- 🌱 Hobbies: *Tennis*, *Guitar*, *Volatility Modeling* and *Quantitative Financial Research in P/Q Measure*
-- 🤔 I'm looking for jobs in derivatives pricing, option market making or others about quantitative research in P or Q measure. 
+- 💬 Tel. & WeChat: (+86) 15270782171 (E-Mail first please).
+- 📫 E-Mail: Jincheng.Gong@hotmail.com.
+- 🌱 Hobbies: Tennis, Guitar, Volatility Modeling and Quantitative Financial Research in P/Q Measure.
+- 🤔 I'm looking for jobs in derivatives pricing, option market making or others about quantitative research in P or Q measure.
