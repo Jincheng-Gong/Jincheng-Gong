@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-- 💬 Tel. & WeChat: (+86) 15270782171 (E-Mail first please).
-- 📫 E-Mail: Jincheng.Gong@hotmail.com.
-- 🌱 Hobbies: Tennis, Guitar, Volatility Modeling and Quantitative Financial Research.
-- 🤔 I'm looking for jobs in derivatives pricing, risk management or others about quantitative research.
+- 💬 Tel. & WeChat: (+86) 15270782171 (E-Mail first please)
+- 📫 E-Mail: Jincheng.Gong@hotmail.com
+- 🌱 Hobbies: tennis, guitar, volatility modeling and quantitative financial research
+- 🤔 I'm looking for jobs in derivatives pricing, risk management or others about quantitative financial research.
