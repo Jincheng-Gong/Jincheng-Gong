@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on GF Futures Co., Ltd. as a derivative market maker.
 - 🌱 I’m currently learning option implied volatility modelling, quantitative financial researching and C/C++ programming in GNU/Linux.
-- 📫 You can reach me in Jincheng.Gong@hotmail.com or reposityory issues.
+- 📫 You can reach me in email or reposityory issues.
