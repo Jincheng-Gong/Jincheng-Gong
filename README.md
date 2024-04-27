@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ---
 
-- 💬 Tel. & WeChat: (+86) XXXXXXXXXXX (E-Mail first please)
-- 📫 E-Mail: Jincheng.Gong@hotmail.com
-- 🌱 Hobbies: tennis, guitar, volatility modeling and quantitative financial research
-- 🤔 
+- 🔭 I’m currently working on GF Futures Co., Ltd. as a derivative market maker.
+- 🌱 I’m currently learning option implied volatility modelling, quantitative financial researching and C/C++ programming in GNU/Linux.
+- 📫 You can reach me in Jincheng.Gong@hotmail.com or reposityory issues.
