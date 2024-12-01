@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ---
 
-- 🔭 I’m currently working for GF Futures Co., Ltd. as a option market maker.
+- 🔭 I’m currently working for GF Futures Co., Ltd. as option market maker.
 - 🌱 I’m currently learning option implied volatility modelling, quantitative financial researching and C/C++ programming in GNU/Linux.
 - 📫 You can reach me in email or repository issues.
